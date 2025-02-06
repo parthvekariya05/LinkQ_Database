@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Study\\Sem-6\\Adv.Net\\LinkQ_Task\\LinkQ_Database\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B8B6914F-0E09-4D11-BB79-2520BFACCF71}|LinkQ_Database\\LinkQ_Database.csproj|e:\\study\\sem-6\\adv.net\\linkq_task\\linkq_database\\linkq_database\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8B6914F-0E09-4D11-BB79-2520BFACCF71}|LinkQ_Database\\LinkQ_Database.csproj|solutionrelative:linkq_database\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8B6914F-0E09-4D11-BB79-2520BFACCF71}|LinkQ_Database\\LinkQ_Database.csproj|e:\\study\\sem-6\\adv.net\\linkq_task\\linkq_database\\linkq_database\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8B6914F-0E09-4D11-BB79-2520BFACCF71}|LinkQ_Database\\LinkQ_Database.csproj|solutionrelative:linkq_database\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationDBContext.cs",
+              "DocumentMoniker": "E:\\Study\\Sem-6\\Adv.Net\\LinkQ_Task\\LinkQ_Database\\LinkQ_Database\\ApplicationDBContext.cs",
+              "RelativeDocumentMoniker": "LinkQ_Database\\ApplicationDBContext.cs",
+              "ToolTip": "E:\\Study\\Sem-6\\Adv.Net\\LinkQ_Task\\LinkQ_Database\\LinkQ_Database\\ApplicationDBContext.cs",
+              "RelativeToolTip": "LinkQ_Database\\ApplicationDBContext.cs",
+              "ViewState": "AgIAAAEAAAAAMzMzMzMbwAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T03:07:20.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Study\\Sem-6\\Adv.Net\\LinkQ_Task\\LinkQ_Database\\LinkQ_Database\\Program.cs",
+              "RelativeDocumentMoniker": "LinkQ_Database\\Program.cs",
+              "ToolTip": "E:\\Study\\Sem-6\\Adv.Net\\LinkQ_Task\\LinkQ_Database\\LinkQ_Database\\Program.cs",
+              "RelativeToolTip": "LinkQ_Database\\Program.cs",
+              "ViewState": "AgIAAAsBAAAAAAAAAACuPRIBAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T02:54:31.894Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
